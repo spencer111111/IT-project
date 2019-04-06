@@ -1,8 +1,11 @@
 # IT-project
 
 Data losses in space
-Spencer De Hoedt		
-ID: 3794454	
+
+Spencer De Hoedt
+
+ID: 3794454
+
 Email: spencer111@iinet.net.au
 
 
@@ -10,7 +13,11 @@ Email: spencer111@iinet.net.au
    Job aspects are an endless area of IT, software development, IT help desk, AI and driverless cars. The role in IT is an endless profession before I joined the course I had to look at the IT profession and jobs out there on seek.com. You looking to the further 
 for next 30th years IT job is a challenge at age of 44 years old, most company look to younger generate not someone graduated at 47 years old. This is what want to do nothing can stand in your way to do a job meant for you.
    
-    I always had to interest IT from a young age, I was building a computer when was young which were 086 and then went 286. I remember when I used to get parts broken down machine my uncle had to my first 086 computer. So always had interest in IT, when start years 9 to 10 I did computing study and found how memory work, hardware, and input device work, then I realize how verst fielded computers are and what involved creating the hardware that goes into the computer. I always want to get into designing hardware in computing but I was not smart to get into that field.
+ I always had to interest IT from a young age, I was building a computer when was young which were 086 and then went 286. 
+ I remember when I used to get parts broken down machine my uncle had to my first 086 computer. So always had interest in IT, 
+ when start years 9 to 10 I did computing study and found how memory work, hardware, and input device work, then I realize 
+ how verst fielded computers are and what involved creating the hardware that goes into the computer. I always want 
+ to get into designing hardware in computing but I was not smart to get into that field.
     
      I was doing a search on the IT profession and study I need do, I look at TAFE and looked into university and didn’t have time attend university or TAFE, then someone at work mentioned about Open University which you didn’t need to attend. So did some research into Open University and found the university was in Melbourne after long consideration (a few months) I decided to join RMIT.
      
@@ -28,20 +35,35 @@ Back-End Developer
 
 
 Relevant mindset, qualifications, and experience:
+
 •    Bachelor's degree or higher in a related field.
+
 •    5+ years of relevant experience in software development.
+
 •    A solid understanding and experience of UNIX/Linux server management.
+
 •    You have used complex relational databases and are capable of administering PostgreSQL installations and developing against them using an Object-Relational Mapper (ORM)
+
 •    Experience in developing applications using server-side scripting languages. We use Python and the Django Framework, but experience with other languages is quickly transferable with a bit of desire and effort.
-•    Experience using source control. We use Git, but if you're used to other versioning software, you'll get on fine. 
+
+•    Experience using source control. We use Git, but if you're used to other versioning software, you'll get on fine.
+
 •    You have previously worked in a team to collaboratively build software, completing assigned tasks and resolving bugs and issues.
+
 •    Enjoy developing alongside designers, researchers, and other highly skilled people.
+
 •    Driven to continually uncover and share new developments and technologies.
+
 •    Comfortable working with a diverse set of colleagues (co-workers, clients and mentors) to complete a project.
+
 •    Inspired by shaping products from their inception to their release into the wild.
+
 •    A passion for making great products, and most importantly; 
+
 •    You're fun to work with.
+
  Link to website https://www.seek.com.au/job/38591001?searchrequesttoken=01646357-b2e2-462b-bad8-de31e2dcb5cc&type=standout
+ 
  To get a job, I need experience in Software Development +5 years. This means I have work in programming about 5 year in current company working on software development for instrument for monitor greenhouse gas and dangers gas in Mine Company.
 
 
