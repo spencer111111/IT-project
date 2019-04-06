@@ -77,16 +77,27 @@ The further IT is in space exploration about compressing data that can send in s
 data, sent to relay station will receive signal decode the data check for losses if ok then send to next destination. I am 
 manly looking at compression software and Compression ratio. When we look at compress programmes like WinZip are using 
 compression Algorithm this Quotation Wikipedia “According to Gregory Chaitin, it is "the result of putting Claude Shannon information theory and Alan Turing’s Computability theory into a cocktail shaker and shaking vigorously. The compress Algorithm 
-   is:
+is:
       
-                                      Compression ratio = Uncompressed Size/Compressed Size
+Compression ratio = Uncompressed Size/Compressed Size
 				      
 Ex. You have 10mb file after compressed 2mb ratio factor 10/2 ratio is 5:1
 
-    There more theoretical calculation into the idea but this understanding of compression ratio. Now we go onto how the program works lossless compression techniques. Most lossless compression programs do two things in sequence: the first step generates a statistical model for the input data, and the second step uses this model to map input data to bit sequences in such a way that "probable" (e.g. frequently encountered) data will produce shorter output than "improbable" data (Fact from Wikipedia).
+There more theoretical calculation into the idea but this understanding of compression ratio. Now we go onto how the program 
+works lossless compression techniques. Most lossless compression programs do two things in sequence: the first step 
+generates a statistical model for the input data, and the second step uses this model to map input data to bit sequences 
+in such a way that "probable" (e.g. frequently encountered) data will produce shorter output than "improbable" data 
+(Fact from Wikipedia).
     
-    Technologies and tool use to compression is called data compression which two techniques lossy compression is reduces bits by removing unnecessary or less important information and lossless compression reduces bits by identifying and elimination of statistical redundancy. They are a lot of compression tool and programmes that can compress and decode text to be sent for transmission made by the programmer.
+Technologies and tool use to compression is called data compression which two techniques lossy compression is reduces 
+bits by removing unnecessary or less important information and lossless compression reduces bits by identifying and 
+elimination of statistical redundancy. They are a lot of compression tool and programmes that can compress and decode 
+text to be sent for transmission made by the programmer.
     
-    The make a program that to compression file and a document which can be done, but transmitting space and having relay station is near further we will have been a reality because when we send people to Mars. We will need transmitted data reply though space.  Next generation IT professional will lead way in sending data though mars and beyond. With have the relay station will be too costly for one country to bear. It has to be a joint effect. The project is not success but in the further, it will one way of sending a signal in the vastness of space.
+The make a program that to compression file and a document which can be done, but transmitting space and having relay 
+station is near further we will have been a reality because when we send people to Mars. We will need transmitted data 
+reply though space.  Next generation IT professional will lead way in sending data though mars and beyond. With have 
+the relay station will be too costly for one country to bear. It has to be a joint effect. The project is not success 
+but in the further, it will one way of sending a signal in the vastness of space.
 
 
