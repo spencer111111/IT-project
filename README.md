@@ -1,14 +1,19 @@
 # IT-project
+
 Data losses in space
-	Spencer De Hoedt		ID: 3794454	Email: spencer111@iinet.net.au
+Spencer De Hoedt		
+ID: 3794454	
+Email: spencer111@iinet.net.au
 
 
 
-   Job aspects are an endless area of IT, software development, IT help desk, AI and driverless cars. The role in IT is an endless profession before I joined the course I had to look at the IT profession and jobs out there on seek.com. You looking to the further for next 30th years IT job is a challenge at age of 44 years old, most company look to younger generate not someone graduated at 47 years old. This is what want to do nothing can stand in your way to do a job meant for you.
+   Job aspects are an endless area of IT, software development, IT help desk, AI and driverless cars. The role in IT is an endless profession before I joined the course I had to look at the IT profession and jobs out there on seek.com. You looking to the further 
+for next 30th years IT job is a challenge at age of 44 years old, most company look to younger generate not someone graduated at 47 years old. This is what want to do nothing can stand in your way to do a job meant for you.
    
     I always had to interest IT from a young age, I was building a computer when was young which were 086 and then went 286. I remember when I used to get parts broken down machine my uncle had to my first 086 computer. So always had interest in IT, when start years 9 to 10 I did computing study and found how memory work, hardware, and input device work, then I realize how verst fielded computers are and what involved creating the hardware that goes into the computer. I always want to get into designing hardware in computing but I was not smart to get into that field.
     
      I was doing a search on the IT profession and study I need do, I look at TAFE and looked into university and didn’t have time attend university or TAFE, then someone at work mentioned about Open University which you didn’t need to attend. So did some research into Open University and found the university was in Melbourne after long consideration (a few months) I decided to join RMIT.
+     
      After graduated from university I was hoping to go into join the programming team at my working place at the moment. There are looking programmers and someone who does this course is working with programmers. This company gives an opportunity for workers to progress to the next step. The person did this course was working in production and progress to a programmer. I am hoping this could be in 3 years’ time or hopefully sooner.
      
      In the Myers I was introvert 53%, intuitive 9%, Feeling 47% and Perceiving 41%. This means I calm and collective but team environment this doesn’t mean it is a bad thing, it means you thinker in the team or doer, hard worker how to get thing do. I also governed by feeling this means that have to keep my feeling in check when making decisions because I make decisions on other people feeling as well. This one reason I pick a job I want to work with east Timorese with developing their country, this decision was made with feeling for others helping out people. “At Catalpa, we work with people around the globe to create change. We use design and technology to connect people, make information accessible, and nudge behaviours for social good. Our programs are in aid and global development, spanning education, health, social inclusion, environment, aid transparency, labour mobility and more. ” This quotation was from Catalpa on the website seek.com.au.
@@ -44,7 +49,9 @@ Data losses in space
 The further IT is in space exploration about compressing data that can send in space. My project is to work on a program that can compress data and that can be decoded easily at another end. The basic rundown is the compression ratio of about 5:1 depends on what you are sending. Data compression is known as compression power. There are a few different software that compresses file which is WinZip, 7-zip, WinRAR, and compressor which are used to compress data. When we looking at the vast area of space there are losses and have to take this into consideration and to avoid losses to have unmanned relay station in space combated losses. 
 
     The motivation behind this I used working satellite communication when sending raw data directly is expansive and losses is a problem. Plus if sending a signal for mars to earth there are going be significate losses, in a proposal to drop significate losses is have unmanned relay station in space between earth and mars to boost the signal and decode and code the message. This is a problem with space but overcome this problem we need to take significate step. Using a compress tool like WinZip encored and decodes data make losses significant less.
+    
       NASA use series of large dish antennas designed to receive the very weak from space; my proposal is compressing and encored data, sent to relay station will receive signal decode the data check for losses if ok then send to next destination. I am manly looking at compression software and Compression ratio. When we look at compress programmes like WinZip are using compression Algorithm this Quotation Wikipedia “According to Gregory Chaitin, it is "the result of putting Claude Shannon information theory and Alan Turing’s Computability theory into a cocktail shaker and shaking vigorously. The compress Algorithm is:
+      
                                       Compression ratio = Uncompressed Size/Compressed Size
 				      
 Ex. You have 10mb file after compressed 2mb ratio factor 10/2 ratio is 5:1
