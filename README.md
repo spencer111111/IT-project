@@ -71,13 +71,14 @@ Data losses in space
 
 The further IT is in space exploration about compressing data that can send in space. My project is to work on a program that can compress data and that can be decoded easily at another end. The basic rundown is the compression ratio of about 5:1 depends on what you are sending. Data compression is known as compression power. There are a few different software that compresses file which is WinZip, 7-zip, WinRAR, and compressor which are used to compress data. When we looking at the vast area of space there are losses and have to take this into consideration and to avoid losses to have unmanned relay station in space combated losses. 
 
-    The motivation behind this I used working satellite communication when sending raw data directly is expansive and losses is a problem. Plus if sending a signal for mars to earth there are going be significate losses, in a proposal to drop significate losses is have unmanned relay station in space between earth and mars to boost the signal and decode and code the message. This is a problem with space but overcome this problem we need to take significate step. Using a compress tool like WinZip encored and decodes data make losses significant less.
+The motivation behind this I used working satellite communication when sending raw data directly is expansive and losses is a problem. Plus if sending a signal for mars to earth there are going be significate losses, in a proposal to drop significate losses is have unmanned relay station in space between earth and mars to boost the signal and decode and code the message. This is a problem with space but overcome this problem we need to take significate step. Using a compress tool like WinZip encored and decodes data make losses significant less.
     
  NASA use series of large dish antennas designed to receive the very weak from space; my proposal is compressing and encored 
 data, sent to relay station will receive signal decode the data check for losses if ok then send to next destination. I am 
 manly looking at compression software and Compression ratio. When we look at compress programmes like WinZip are using 
-compression Algorithm this Quotation Wikipedia “According to Gregory Chaitin, it is "the result of putting Claude Shannon information theory and Alan Turing’s Computability theory into a cocktail shaker and shaking vigorously. The compress Algorithm 
-is:
+compression Algorithm this Quotation Wikipedia “According to Gregory Chaitin, it is "the result of putting Claude Shannon 
+information theory and Alan Turing’s Computability theory into a cocktail shaker and shaking vigorously. The compress 
+Algorithm is:
       
 Compression ratio = Uncompressed Size/Compressed Size
 				      
